@@ -52,7 +52,6 @@ env/
 .venv
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -82,3 +81,5 @@ uv.lock
 demos/results_*.json
 benchmarks/results_*.json
 output/
+config.bat
+node_modules
